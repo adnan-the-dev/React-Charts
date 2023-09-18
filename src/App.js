@@ -1,5 +1,5 @@
 import './App.css';
-import { ResponsiveContainer, LineChart, Line, XAxis, YAxis, CartesianGrid, Legend, Tooltip, AreaChart, BarChart, Bar, Area, PieChart, Pie, RadialBarChart, RadialBar, Cell, ScatterChart, Scatter, ErrorBar, FunnelChart, Funnel, LabelList } from 'recharts';
+import { ResponsiveContainer, LineChart, Line, XAxis, YAxis, CartesianGrid, Legend, Tooltip, AreaChart, BarChart, Bar, Area } from 'recharts';
 
 const pdata = [
   {
